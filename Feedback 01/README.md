@@ -8,17 +8,17 @@ Crear un portal web formado por tres ficheros **html**:
 
 Se accederá a cada uno de los archivos a través del menú de la parte superior de todas las páginas (puedes utilizar otras imágenes).
 
-## **Index.html**
+## **Index**
 
-<img src="imagenes/01.jpg" width="400" height="300">
+<img src="Imagenes/01.jpg" width="400" height="300">
 
-## **Menú.html**
+## **Menú**
 
-<img src="imagenes/02.jpg" width="400" height="300">
+<img src="Imagenes/02.jpg" width="400" height="300">
 
-## **Reserva.html**
+## **Reserva**
 
-<img src="imagenes/03.jpg" width="400" height="300">
+<img src="Imagenes/03.jpg" width="400" height="300">
 
 ## Notas Importantes
 

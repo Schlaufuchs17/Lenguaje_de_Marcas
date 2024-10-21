@@ -2,7 +2,7 @@
 Basándote en el documento **.xml** que realizaste para la siguiente 
 tabla:
 
-<img src="imagenes/01.jpg" width="400" height="300">
+<img src="Imagenes/01.jpg" width="400" height="300">
 
 ## 01. Realiza las siguientes consultas con **PATH**: 
  

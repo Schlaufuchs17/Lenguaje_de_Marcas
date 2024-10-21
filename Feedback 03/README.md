@@ -3,7 +3,7 @@
 
 - Formato e idioma serán atributos.
 
-<img src="imagenes/01.jpg" width="400" height="300">
+<img src="Imagenes/01.jpg" width="400" height="300">
 
 ## 02. Realiza un fichero **.dtd** para validar el documento anterior teniendo en cuenta que:
 
@@ -13,4 +13,4 @@
 - Año y Singles opcionales.
 - Single será un elemento vacío.
 
-## 03. Realiza un esquema .xsd para validar el ejercicio anterior.
+## 03. Realiza un esquema **.xsd** para validar el ejercicio anterior.
